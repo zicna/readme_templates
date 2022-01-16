@@ -19,6 +19,7 @@
 - [Challanges](#challanges)
 - [Future upgrades](#future-upgrades)
 - [Bugs](#bugs)
+- [Contributions](#contributions)
 - [Credits](#credits)
 - [License](#license)
 
@@ -96,6 +97,10 @@ ___
 ## Bugs
 1. Bug One
 2. Bug Two
+___
+## Contributions
+
+Pull requests are more then welcome [here](linktogithub). This project is intended to be a safe, welcoming space for collaboration, and contributors are expected to folow the [code of conduct](link_to_code_of_conduct). Thank you!!! 🙏🙏🙏
 ___
 ## Credits
 Great help for this app to see light of the day goes to [name that links to](link). Thank you!
