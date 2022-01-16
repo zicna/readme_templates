@@ -98,6 +98,9 @@ ___
 ## Bugs
 1. Bug One
 2. Bug Two
+
+Let us know if you find any issues or bugs via email <a href="mailto:zivkovicmilan1987@gmail.com">here</a>.
+
 ___
 ## Contributions
 
