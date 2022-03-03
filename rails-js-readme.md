@@ -158,3 +158,13 @@ This application is avaiable as open source under the terms of the [MIT License]
 <spam style="color:blue">blue</spam>
 <spam style="color:pink">pink</spam>
 <spam style="color:orange">orange</spam>
+
+<!-- * Emoji often used in readme.md -->
+
+
+✅✅✅✅
+
+❌❌❌❌
+
+find more [here](https://emojidb.org/beer-emojis)
+
