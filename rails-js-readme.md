@@ -107,7 +107,8 @@ ___
 Pull requests are more then welcome [here](linktogithub). This project is intended to be a safe, welcoming space for collaboration, and contributors are expected to folow the [code of conduct](link_to_code_of_conduct). Thank you!!! 🙏🙏🙏
 
 #### Code of Conduct
-Our Pledge
+<details>
+<summary>Our Pledge</summary>
 In the interest of fostering an open and welcoming environment, we as contributors and maintainers pledge to making participation in our project and our community a harassment-free experience for everyone, regardless of age, body size, disability, ethnicity, gender identity and expression, level of experience, nationality, personal appearance, race, religion, or sexual identity and orientation.
 
 Our Standards
@@ -139,6 +140,8 @@ This Code of Conduct applies both within project spaces and in public spaces whe
 Instances of abusive, harassing, or otherwise unacceptable behavior may be reported by contacting the project team at <a href="mailto:zivkovicmilan1987@gmail.com">email</a>. All complaints will be reviewed and investigated and will result in a response that is deemed necessary and appropriate to the circumstances. The project team is obligated to maintain confidentiality with regard to the reporter of an incident. Further details of specific enforcement policies may be posted separately.
 
 Project maintainers who do not follow or enforce the Code of Conduct in good faith may face temporary or permanent repercussions as determined by other members of the project's leadership.
+</details>
+
 ___
 ## Credits
 Great help for this app to see light of the day goes to [name that links to](link). Thank you!
